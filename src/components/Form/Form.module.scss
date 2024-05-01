@@ -1,0 +1,17 @@
+.form {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 5rem;
+
+    .item {
+        margin: 1rem;
+        input, button {
+            padding: 1rem;
+        }
+
+        button {
+            border-radius: 10px;
+        }
+    }
+  }
+  
